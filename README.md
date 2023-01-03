@@ -8,3 +8,6 @@
 - NodeRed GUI + IBM Approach ( + Embedded webchat?)
 
 - Python GUI + IBM Approach  (faster? BenchMark?)
+
+pros
+cons
