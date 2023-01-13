@@ -1,11 +1,11 @@
 import json
-from ibm_watson import AssistantV2
+from ibm_watson import AssistantV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-assistant_id = '5963c60b-6a6f-4548-b6dc-292105a12dfe'
+# api keys are stored in .gitignore
 
 authenticator = IAMAuthenticator('{apikey}')
-assistant = AssistantV2(
+assistant = AssistantV1(
     version='2021-06-14',
     authenticator = authenticator
 )
@@ -13,10 +13,8 @@ assistant = AssistantV2(
 assistant.set_service_url('{url}')
 
 response = assistant.message(
-    assistant_id='{assistant_id}',
-    session_id='{session_id}',
+    workspace_id='{workspace_id}',
     input={
-        'message_type': 'text',
         'text': 'Hello'
     }
 ).get_result()

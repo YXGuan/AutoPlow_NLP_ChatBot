@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 
-# import os
+import os
 import openai
 import sys
 
 userQuestion =  sys.argv[1]
-#input("Enter your question:")
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 start_sequence = "\nAI: "
 restart_sequence = "\nHuman: "
 
+userQuestion = "The following is a conversation with an AI assistant. The assistant is helpful, creative, clever, and very friendly.\n\nHuman: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?\nHuman: "+userQuestion+"\nAI:"
+
 response = openai.Completion.create(
-  model="text-davinci-002",
+  model="text-babbage-001",
   prompt=userQuestion,
   temperature=0.9,
   max_tokens=150,
@@ -21,14 +24,6 @@ response = openai.Completion.create(
   stop=[" Human:", " AI:"]
 )
 
-#print (response)
-
-#print ("--------------------")
-
-
 print(response["choices"][0]["text"])
 
-# parse response:
-#textOnlyResponse = json.loads(response)
-#print(textOnlyResponse["choices"])
 

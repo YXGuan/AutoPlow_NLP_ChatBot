@@ -5,7 +5,9 @@ import subprocess
 
 
 def runSubprocess():
-    subprocess.run(["ls", "-l"])
+    subprocess.run(["./bashTest2.sh"])
+    # subprocess.run(["ls", "-l"])
+    # ./home/yuxiang/code/2023/AutoPlow_NLP_ChatBot/VoiceEnabled_RoboticArmPicking/bashTest2.sh
 
 
 root = Tk()
@@ -19,6 +21,10 @@ def clicked(value):
     myLabel = Label(root, text=value)
     myLabel.pack()
 
+#Define a function to close the window
+def close_win():
+   root.destroy()
+
 Radiobutton(root, text="Option 1", variable = r, value=1,command=lambda:clicked(r.get())).pack()
 Radiobutton(root, text="Option 2", variable = r, value=2,command=lambda:clicked(r.get())).pack()
 
@@ -27,9 +33,12 @@ myLabel.pack()
 
 myButton = Button(root, text= "click me!", command=lambda: clicked(r.get()))
 myButton2 = Button(root, text= "Run SubProcess!", command=lambda: runSubprocess())
+myButton3 = Button(root, text= "close all windows", command=lambda: close_win())
 
 myButton.pack()
 myButton2.pack()
+myButton3.pack()
+
 
 mainloop()
 

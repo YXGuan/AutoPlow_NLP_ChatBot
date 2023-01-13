@@ -61,4 +61,11 @@
     "bot_response": "Peel Region is big",
     "required_words": ["tea", "me"]
   }
+  ,
+  {
+    "response_type": "action",
+    "user_input": ["use", "robot", "arm"],
+    "bot_response": "Operating Robotic Arm, beep beep",
+    "required_words": ["robot", "arm"]
+  }
 ]
