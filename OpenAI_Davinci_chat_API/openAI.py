@@ -3,6 +3,11 @@
 import os
 import openai
 import sys
+import pyttsx3 as tts
+
+
+speaker = tts.init()
+speaker.setProperty("rate",150)
 
 userQuestion =  sys.argv[1]
 
@@ -24,6 +29,11 @@ response = openai.Completion.create(
   stop=[" Human:", " AI:"]
 )
 
-print(response["choices"][0]["text"])
+aiResponse = response["choices"][0]["text"]
+
+print(aiResponse)
+
+speaker.say(aiResponse)
+speaker.runAndWait()
 
 
