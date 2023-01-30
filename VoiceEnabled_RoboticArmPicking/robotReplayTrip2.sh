@@ -5,4 +5,4 @@ name="AutoPlow"
 echo "Hi Autoplow"
 sleep 1
 
-ls & roscore &  python3 tkinterTest1.py && fg
+ros2 bag play /home/yuxiang/code/2023/bag_files/tryTrip2
