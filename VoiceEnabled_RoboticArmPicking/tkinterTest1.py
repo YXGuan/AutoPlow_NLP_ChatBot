@@ -13,10 +13,12 @@ import subprocess
 # TODO a button to kill a PID
 # TODO an actual log? to a file?
 # TODO bash log with colour?
+# TODO add description for each button (e.g. what kind of objects can be detected)
+# TODO it would be interesting to experiment with code generation, automatic update labels, and anchors given JSON file
+# TODO  furthur understand and interpretate the validation result
 
 def runSubprocess():
     subprocess.run(["./bashTest2.sh"])
-
 def armPicknPlace():
     subprocess.run(["./armPicknPlace.sh"])
 def armPS4Controller():
@@ -57,6 +59,7 @@ def robotUnDock():
 def robotWallFollwing():
     subprocess.run(["./robotWallFollwing.sh"])    
 
+# Template
 # def ():
 #     subprocess.run(["./.sh"])
 
