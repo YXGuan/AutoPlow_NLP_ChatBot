@@ -1,0 +1,76 @@
+﻿X,Y,OBJECTID,SNO,NAME,ALTERNATE_NAME,COMMUNITY,TYPE,RANKING,CLUSTER_AREA,HEIGHT_IN_M,WIDTH_IN_M,OWNERSHIP,ACCESS_FROM,LONGITUDE,LATITUDE
+608456,4784015,1,88,Lewis Rd. East Falls,N/A,Stoney Creek,Cascade,C,Stoney Creek-Winona,8,5,private,McNeilly Rd.,-79.66503316717423,43.20112683583365
+583986,4787936,2,27,Little Falls,N/A,Ancaster,Cascade,C,Tiffany-Coldwater,7,3,public,Wilson St. E.,-79.9655785321566,43.239546659921814
+584594,4787790,3,28,Tiffany Falls,N/A,Ancaster,Waterfall,A,Tiffany-Coldwater,21,6,public,Wilson St. E. / Tiffany Falls CA,-79.95811365230837,43.23816423544748
+586478,4788482,4,33,Scenic Falls,N/A,Hamilton,Cascade,A,Chedoke-Scenic,20,6,public,Scenic Dr. / Chedoke Radial Trail Head,-79.93480506087934,43.24418074609277
+586872,4788682,5,34,Lower Princess Falls,Lower Lang's Falls,Hamilton,Cascade,A,Chedoke-Scenic,39.5,3,public,Hwy 403,-79.92992126400262,43.245936082928246
+586872,4788671,6,35,Princess Falls,"Lang's Falls, Upper Princess Falls, Westerly Falls on Chedoke Radial Trail",Hamilton,Waterfall,B,Chedoke-Scenic,7,2,public,Scenic Dr. / Chedoke Radial Trail Land,-79.92992299769048,43.245837048511135
+588109,4788588,7,36,Upper Sanatorium Falls,"Ravine Mountain Sanatorium, Sanatorium Falls",Hamilton,Cascade,C,Chedoke-Mountview,9,3,public,Sanatorium Rd. / Chedoke Civic Golf Course,-79.91470173654479,43.24494625709709
+588087,4788703,8,37,Lower Sanatorium Cascade,Lower Sanatorium Falls,Hamilton,Cascade,C,Chedoke-Mountview,4,3,public,Beddoe Dr. / Chedoke Civic Golf Course,-79.91495429979956,43.24598418231666
+587561,4788642,9,38,Mountview Falls,"Goulding Falls, Water Fall on the Mountain, Easterly Falls on Chedoke Radial Trail",Hamilton,Cascade,B,Chedoke-Mountview,10,6,public,Scenic Dr. / Chedoke Radial Trail Land,-79.92144206915387,43.24549626058113
+588618,4788677,10,39,Lower Westcliffe Falls,West Double Falls,Hamilton,Cascade,B,West Chedoke,9,6,public,Beddoe Dr. / Chedoke Civic Golf Course,-79.90841884286067,43.24568788061153
+588623,4788675,11,40,Lower Cliffview Falls,East Double Falls,Hamilton,Cascade,B,West Chedoke,4,3,public,Beddoe Dr. / Chedoke Civic Golf Course,-79.90835758625731,43.24566928681511
+588610,4788645,12,41,Westcliffe Falls,N/A,Hamilton,Cascade,A,West Chedoke,15,2,public,Beddoe Dr. / Chedoke Civic Golf Course,-79.90852251218865,43.24540072270281
+588666,4788519,13,42,Cliffview Falls,N/A,Hamilton,Cascade,A,West Chedoke,15,3,public,Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr. / Cliffview Park,-79.90785310757677,43.24425975342982
+589270,4788525,14,43,Lower Chedoke Falls,N/A,Hamilton,Cascade,A,Chedoke,6,11,public,Beddoe Dr. / Chedoke Civic Golf Course,-79.90041368177135,43.24424250690414
+589254,4788245,15,45,Chedoke Falls,N/A,Hamilton,Waterfall,A,Chedoke,18,9,public,Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr,-79.9006560601081,43.241723548041556
+596704,4783965,16,46,Upper Glendale Falls,Glendale Falls,Hamilton,Waterfall,C,Red Hill,3,3,public,Kingsview Dr.,-79.8096628664032,43.20227305588562
+595894,4784292,17,47,Buttermilk Falls,Inglis Falls,Hamilton,Waterfall,A,Red Hill,23,8,public,Mountain Brow Blvd. / Oak-Knoll Park,-79.81957437007289,43.20532028293186
+595897,4783744,18,48,Albion Falls,Mount Albion Falls,Hamilton,Cascade,A,Red Hill,19,18,public,Mountain Brow Blvd. / King's Forest Park,-79.81963257925828,43.20038633704761
+598382,4784486,19,49,Little Davis Falls,Lower Felker's Falls,Hamilton,Waterfall,B,Felker,3,8,public,Quigley Rd.,-79.7889199226019,43.20674674348467
+598287,4784126,20,50,Felker's Falls,N/A,Hamilton,Waterfall,A,Felker,22,6,public,Ackland St. / Felker's Falls CA,-79.79015317390864,43.20351812423371
+600197,4784566,21,53,Billy Green Falls,Battlefield Falls,Stoney Creek,Waterfall,B,Glover-Battlefield,17,6,public,Centennial Pky.,-79.7665678321352,43.20722828063688
+608932,4783930,22,89,Harvey Falls,Pond Falls,Stoney Creek,Waterfall,B,Stoney Creek-Winona,16,3,private,Fifty Rd.,-79.65919249094476,43.200293130321214
+609506,4783736,23,90,Promontory Falls,N/A,Stoney Creek,Waterfall,B,Stoney Creek-Winona,18,1,private,Fifty Rd.,-79.65216767776101,43.19846367689516
+605967,4784242,24,65,Jones Rd. Falls,N/A,Stoney Creek,Cascade,C,Stoney Creek-Vinemount,6,2,private,McNeilly Rd.,-79.69561843672369,43.20352374233702
+588681,4796201,25,66,Upper Quarry Cascade,N/A,Flamborough,Cascade,C,Quarry,4,1.2,private,Mountain Brow Rd.,-79.90643033281894,43.31341910302913
+586855,4794313,26,69,Lower Hopkins Cascade,N/A,Flamborough,Cascade,C,Borer's,6,3.5,public,Valley Rd.,-79.92924215847052,43.29663442999015
+586266,4793693,27,70,Rock Chapel Falls,N/A,Flamborough,Waterfall,C,Borer's,8,1.5,public,Rock Chapel Rd.,-79.93659945704661,43.29112026303825
+585266,4792244,28,71,Dyment Falls,N/A,Flamborough,Waterfall,B,Sydenham,15.7,4,public,Sydenham Rd. lookout,-79.94914900371384,43.278188665313635
+581832,4792340,29,74,East Greensville Falls,N/A,Flamborough,Cascade,C,Spencer-Logie's,5.5,1.5,public,Crooks Hollow Rd / Crooks Hollow CA,-79.99145009587718,43.279433924332935
+586171,4788545,30,81,East Iroquoia Falls,N/A,Hamilton,Waterfall,B,Chedoke-Scenic,20,1.2,public,Hwy 403,-79.93857605503914,43.24478309110776
+599031,4784656,31,82,Veevers Falls,N/A,Hamilton,Cascade,C,Felker,14,2.5,private,Greenhill Ave.,-79.78090203240046,43.20819236184315
+600038,4784720,32,83,Centennial Falls,N/A,Stoney Creek,Cascade,B,Glover-Battlefield,10,4,public,Centennial Pky.,-79.76849679452593,43.208635776752004
+586978,4794458,33,111,Patterson West Cascade,Patterson Cascade,Dundas,Cascade,C,Borer's,4.3,1.2,public,Patterson Road,-79.9277031201716,43.29792566719522
+587028,4794484,34,112,Patterson East Cascade,N/A,Dundas,Cascade,C,Borer's,4.6,1.5,public,Patterson Road,-79.92708269160346,43.29815396629297
+590022,4788461,35,113,Auchmar Falls,Upper Beckett Falls,Hamilton,Waterfall,C,Chedoke,12,1.5,public,Beckett Drive,-79.89116304154824,43.24357691086948
+608393,4783965,36,87,Lewis Rd. West Falls,N/A,Stoney Creek,Waterfall,C,Stoney Creek-Winona,9,3,private,McNeilly Rd.,-79.66581822715989,43.200685764461774
+590452,4788610,37,99,Beckett Falls,Lower Beckett Falls,Hamilton,Waterfall,C,Chedoke,3,1.2,public,Beckett Drive,-79.88584309038085,43.244866900531335
+609740,4783579,38,91,Grand Cascade,N/A,Stoney Creek,Cascade,C,Stoney Creek-Winona,4,1,private,Fifty Rd.,-79.6493195000052,43.19701635644114
+609936,4783449,39,93,West of Fifty Upper Cascade,N/A,Stoney Creek,Cascade,C,Stoney Creek-Winona,8,1.5,public,Fifty Rd.,-79.6469336519414,43.19581755933775
+610140,4783397,40,94,Fifty Rd. Cascade,N/A,Stoney Creek,Cascade,C,Stoney Creek-Winona,10,1.2,public,Fifty Rd.,-79.64443391988563,43.19531972315408
+610386,4783357,41,95,East of Fifty Falls,Winona Falls,Stoney Creek,Waterfall,C,Stoney Creek-Winona,10,1.5,private,Fifty Rd.,-79.64141505766663,43.19492372325251
+610668,4783376,42,96,Puddicombe Falls,N/A,Stoney Creek,Cascade,C,Stoney Creek-Winona,6,2,public,Fifty Rd.,-79.63794147443316,43.195053502540134
+598499,4784263,43,103,Heritage Green Falls,Taro Falls,Hamilton,Waterfall,B,Felker,12.2,1.8,public,Ackland Street,-79.78751973936322,43.204723876926955
+596724,4783990,44,109,Middle Glendale Falls,N/A,Hamilton,Cascade,C,Red Hill,3.1,3.4,public,Bruce Trail,-79.80941235971785,43.202495565018346
+598464,4784239,45,110,Mountain Spring Falls,N/A,Hamilton,Waterfall,B,Felker,15,2.4,public,Ackland Street,-79.7879547579588,43.20451237578572
+586934,4794409,46,107,Valley Falls,N/A,Flamborough,Waterfall,C,Borer's,4.3,4.3,public,Bruce Trail at Valley Road,-79.92825322411198,43.29748960169449
+596164,4783828,47,123,Pritchard Falls,N/A,Hamilton,Waterfall,C,Red Hill,4.5,1,public,Mountain Brow Blvd. / King's Forest Park,-79.81633222179092,43.2011086248597
+595034,4782623,48,126,Billy Monkley Cascade,N/A,Hamilton,Cascade,C,Red Hill,3,6.4,public,Chippewa Rail Trail via Rymal Road/Billy Monkley Bird Sanctuary,-79.83044558432469,43.190403176771966
+596170,4785287,49,122,Broman Falls,Coop's Falls,Hamilton,Waterfall,C,Red Hill,7,1.1,public,Bruce Trail Escarpment Rail Trail at Mohawk Sports Park,-79.8160043239796,43.214242999664556
+595895,4783719,50,130,Baby Albion Falls,N/A,Hamilton,Waterfall,C,Red Hill,8.5,1,public,Mountain Brow Blvd. / King's Forest Park,-79.81966153077211,43.20016151951136
+600954,4785019,51,54,Lower Punchbowl Falls,N/A,Stoney Creek,Waterfall,B,Punchbowl,6,6,public,Mountain Ave.,-79.75716843754456,43.21120563731727
+601058,4784925,52,55,Devil's Punchbowl Falls,"Horseshoe Falls, Devil's Punch Bowl",Stoney Creek,Waterfall,A,Punchbowl,37,3,public,Ridge Rd. / Devil's Punchbowl CA,-79.75590560591296,43.21034547516256
+604108,4784578,53,57,Dewitt Falls,N/A,Stoney Creek,Cascade,C,Stoney Creek-Fruitland,7,2,public,Dewitt Rd.,-79.71843246899016,43.20680717150098
+583971,4787986,54,78,Lower Little Falls,N/A,Ancaster,Cascade,B,Tiffany-Coldwater,8.2,1.8,public,Wilson St. E.,-79.96575563665898,43.23999849233325
+584208,4787960,55,79,Ancaster Heights Falls,N/A,Ancaster,Cascade,B,Tiffany-Coldwater,13.4,1.8,public,Wilson St. E.,-79.96284102163527,43.23973798213965
+586016,4788500,56,80,West Iroquoia Falls,N/A,Hamilton,Waterfall,B,Chedoke-Scenic,19.8,1,public,Hwy 403,-79.94049199184443,43.24439564651954
+586199,4792956,57,138,Sugar Shack Falls,N/A,Dundas,Waterfall,B,Borer's,9,4,public,Rock Chapel Rd. / Rock Chapel Sanctuary,-79.93754073165293,43.28449266423598
+584226,4805550,58,1,Progreston Falls,N/A,Flamborough,Waterfall,A,Bronte,6.7,16.5,private,Progreston Rd.,-79.95992136862995,43.398100576423325
+590212,4798123,59,3,Great Falls,"Waterdown Falls, Grindstone Falls, Smokey Hollow Falls, Dunn's Falls, The Falls, Palmer's Falls",Flamborough,Waterfall,A,Grindstone,10,5,public,Mill St / Smokey Hollow Resource Management Area,-79.88723847508327,43.33054059315716
+590241,4797890,60,4,Grindstone Cascade,N/A,Flamborough,Cascade,B,Grindstone,3,5,public,Mill St / Smokey Hollow Resource Management Area,-79.88691913802887,43.328439444514906
+586247,4793992,61,6,Borer's Falls,Rock Chapel Falls,Flamborough,Waterfall,A,Borer's,15,5,public,Rock Chapel Rd. / Rock Chapel Sanctuary,-79.93678673268606,43.293814359593775
+584525,4791765,62,10,Lower Sydenham Falls,Sydenham Ravine,Dundas,Waterfall,B,Sydenham,4,4,private,Livingstone Dr. / Cascades Park,-79.9583534540946,43.273959676196455
+582900,4792495,63,11,Tew's Falls,"Hopkins Falls, Tunis Falls",Flamborough,Waterfall,A,Spencer-Logie's,41,9,public,Harvest Rd. / Spencer Gorge / Webster's Falls CA,-79.97826606791264,43.280712618478034
+582691,4791988,64,13,Webster's Falls,"Spencer Falls, Hatt's Falls",Flamborough,Waterfall,A,Spencer-Logie's,22,30,public,Fallsview Rd. / Spencer Gorge / Webster's Falls CA,-79.98091775995385,43.276170962051644
+582612,4791933,65,14,Baby Webster's Falls,N/A,Flamborough,Waterfall,B,Spencer-Logie's,9,3,public,Fallsview Rd. / Spencer Gorge / Webster's Falls CA,-79.98189945961153,43.27568445335311
+580590,4792078,66,15,Darnley Cascade,"Stutt's Falls, Crooks Hollow Falls",Flamborough,Cascade,A,Spencer-Logie's,4,22,public,Crooks Hollow Rd / Darnley Mill ruins,-80.00679339538611,43.27720899084522
+583406,4791649,67,16,Dundas Falls,N/A,Dundas,Waterfall,B,Spencer-Logie's,6.4,6.7,private,King St.,-79.97215887270987,43.273040039046386
+580185,4787537,68,18,Mineral Springs Falls,N/A,Ancaster,Cascade,B,DV-Sulphur,3,2,private,Must view from owner's driveway only,-80.01244494576387,43.236368032381755
+581355,4787551,69,19,Hermitage Cascade,Hermitage Falls,Ancaster,Cascade,B,DV-Sulphur,4,5,public,Sulphur Springs Rd. / Hermitage ruins,-79.99803535546485,43.23636878645472
+580884,4787942,70,20,Heritage Falls,Griffin Falls,Ancaster,Cascade,C,DV-Sulphur,5,3,public,Sulphur Springs Rd. / Hermitage ruins,-80.00377795382421,43.23993975331634
+583319,4787240,71,21,Mill Falls,"Wilson Falls, Mill Stream Waterfall, Upper Mill Falls",Ancaster,Waterfall,B,Ancaster-Sulphur,7,4,private,Old Dundas Rd. / Old Mill Rest.,-79.97389756138983,43.2333543686237
+583349,4787311,72,22,Lower Mill Falls,N/A,Ancaster,Cascade,B,Ancaster-Sulphur,6,4,private,Old Dundas Rd. / Old Mill Rest.,-79.97351742940906,43.2339902867941
+582762,4787636,73,23,Canterbury Falls,Milne Falls,Ancaster,Cascade,B,Ancaster-Sulphur,9,4,public,Old Dundas Rd.,-79.98069671419796,43.23698099029021
+582817,4787627,74,24,Little Canterbury Falls,N/A,Ancaster,Cascade,C,Ancaster-Sulphur,5,2,public,Old Dundas Rd.,-79.98002078676535,43.236893923494165
+583391,4787770,75,26,Sherman Falls,"Smith's Falls, Whitton Falls, Fairy Falls, Angel Falls",Ancaster,Waterfall,A,Ancaster-Sulphur,17,8,private,Lions Club Rd.,-79.97293085228978,43.23811814490993
